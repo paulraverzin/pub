@@ -1,3 +1,3 @@
-FROM proxy00/rig00
+FROM tablet01/hw01
 
 RUN ls
